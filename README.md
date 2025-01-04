@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradnya
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Machine Learning and Data Science.
+- 👀 Passionate about data storytelling, visualization, and solving business problems using data.
+- 🌱 Currently learning: SQL, Python, Power BI, Tableau and machine learning.
 - 📫 You can reach me on kulkarnipradnya87@gmail.com
 - 😄 Pronouns: She
 
